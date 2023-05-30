@@ -1,0 +1,3 @@
+/Users/fran/Documents/Clion Proyectos/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir
+/Users/fran/Documents/Clion Proyectos/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fran/Documents/Clion Proyectos/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
